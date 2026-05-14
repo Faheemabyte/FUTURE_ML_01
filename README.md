@@ -49,5 +49,4 @@ Sample Superstore Dataset from Kaggle
  Faheema Isa Dutse
  
  Future Interns
-Your Name
-Future Interns ML Intern
+
